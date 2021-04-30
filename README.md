@@ -17,13 +17,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🔧 &nbsp;Tools I am familiar with
+### 🛠 &nbsp;Tools I am familiar with
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 
-### 🔧 &nbsp;Tools I am Learning
+### 🛠 &nbsp;Tools I am Learning
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)

@@ -22,5 +22,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjid-git&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sunjid's Github Stats">
 
+Find Me here
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img 
+
+---|
+
 
 ✨ On the journey of continual exploration... ✨ 

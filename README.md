@@ -24,9 +24,17 @@
 
 Find Me here
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img 
-
----|
+<div align="center" style="background:#414a50; padding: 25px 0;">
+    <a href="https://twitter.com/ThisIsIvoLondon">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+    </a>
+     <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+    </a>
+   <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+    </a>
+</div>
 
 
 ✨ On the journey of continual exploration... ✨ 

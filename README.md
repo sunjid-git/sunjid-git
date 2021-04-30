@@ -1,6 +1,6 @@
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Hi,  This is Sunjid... Glad to meet you... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">***
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">***Hi,  This is Sunjid... Glad to meet you... <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***
 
 
 ### 🛠 &nbsp;Tools I Use 🌐
@@ -28,7 +28,7 @@
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 
 
-📫 Find Me here
+### 📫 Find Me here
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sunjid-in/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sunjid.info@gmail.com)
 

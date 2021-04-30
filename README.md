@@ -25,9 +25,7 @@
 Find Me here
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://github.com/sunjid-git">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/GitHub.svg" alt="Follow me on Github">
-    </a>
+  
      <a href="https://www.linkedin.com/in/sunjid-in/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>

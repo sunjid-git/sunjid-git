@@ -20,8 +20,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
- &nbsp;GitHub Analytics
-
 
 - 📫 Find Me here
 

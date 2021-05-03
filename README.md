@@ -1,8 +1,8 @@
  
 
- Hi,  This is [Sunjid Hasan](https://sunjid-hasan.web.app/)... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi,  This is [Sunjid Hasan](https://sunjid-hasan.web.app/)... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  Glad to meet you... 
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  Glad to meet you... 
 
 ### 🛠 &nbsp;Tools I Use
 
@@ -17,21 +17,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🛠 &nbsp;Tools I am familiar with
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
 
 ### 🛠 &nbsp;Tools I am Learning
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat-square&logo=SASS)
+![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat-square&logo=material-ui)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux)
+![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 
 
 ### 📫 Find Me here
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sunjid-in/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sunjid.info@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/sunjid-in/)
+[![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail&logoColor=red)](mailto:sunjid.info@gmail.com)
 
 
  ✨ On the journey of continual exploration... ✨ 

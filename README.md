@@ -34,6 +34,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/sunjid-in/)
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail&logoColor=red)](mailto:sunjid.info@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?sunjid-git=Sunjid-Hasan&color=dc143c)
+![Profile Views](https://komarev.com/ghpvc/?username-git=sunjid-git&color=dc143c)
 
  ✨ On the journey of continual exploration... ✨ 

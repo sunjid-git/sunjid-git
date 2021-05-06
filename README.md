@@ -29,6 +29,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 
+### 🛠 &nbsp;Top Languages I have used so far directly or indirectly
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&theme=tokyonight)
 
 

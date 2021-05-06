@@ -29,6 +29,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&theme=tokyonight)
+
 
 ### 📫 Find Me here
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/sunjid-in/)

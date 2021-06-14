@@ -31,6 +31,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&layout=compact)](https://github.com/sunjid-git/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&langs_count=8)](https://github.com/sunjid-git/github-readme-stats)
+
+
 
 ### 📫 Find Me here
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/sunjid-in/)

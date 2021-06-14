@@ -31,9 +31,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
 
-<div style="flex: 33.33%; padding: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sunjid-git&count_private=true&theme=radical" alt="sunjid-git" /></div>
-</div>
 
 ### 📫 Find Me here
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/sunjid-in/)

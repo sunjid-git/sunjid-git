@@ -29,7 +29,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&layout=compact)](https://github.com/sunjid-git/github-readme-stats)
 
 
 ### 📫 Find Me here

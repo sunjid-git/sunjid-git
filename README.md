@@ -31,8 +31,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&layout=compact)](https://github.com/sunjid-git/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&langs_count=8)](https://github.com/sunjid-git/github-readme-stats)
-
 
 
 ### 📫 Find Me here

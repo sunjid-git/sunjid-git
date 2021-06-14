@@ -29,7 +29,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
 
 <div style="flex: 33.33%; padding: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sunjid-git&count_private=true&theme=radical" alt="sunjid-git" /></div>

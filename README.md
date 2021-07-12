@@ -17,7 +17,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
 
-### 🛠 &nbsp;Tools I am familiar with
+### 🛠 &nbsp;Tools I am familiar with & learning
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)

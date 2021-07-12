@@ -11,26 +11,22 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
 
 ### 🛠 &nbsp;Tools I am familiar with
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
-
-### 🛠 &nbsp;Tools I am Learning
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat-square&logo=SASS)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat-square&logo=material-ui)
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjid-git&layout=compact)](https://github.com/sunjid-git/github-readme-stats)
-
 
 
 ### 📫 Find Me here

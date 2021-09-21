@@ -1,6 +1,6 @@
  
 
-# Hi,  This is [Sunjid Hasan](https://sunjid-dev.web.app/)... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi,  This is [Sunjid Hasan &#8499; &#119964; &#8497; &#8464; ](https://sunjid-dev.web.app/)... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  Glad to meet you... 
 

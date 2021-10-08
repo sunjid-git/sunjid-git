@@ -22,7 +22,6 @@
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat-square&logo=SASS)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat-square&logo=material-ui)
 
 
